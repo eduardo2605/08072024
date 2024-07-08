@@ -1,0 +1,11 @@
+.div1{
+    border: 3px solid black;
+    width: 400px;
+    height: 400px;
+    overflow: scroll;
+}
+table, tr, td, th{
+    border: 3px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
